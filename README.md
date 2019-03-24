@@ -43,3 +43,8 @@ Then place the file in the Repository and unzip (or decompress) the file.
 #### 3. Train the agents
 
 After you have followed the instructions above, open `main.ipynb` (located in this repository) and follow the instructions to learn how to use the Python API to control the agents.
+
+## License
+
+This project is free to use according to the [MIT License](https://github.com/francnascimento/drl-tennis/blob/master/LICENSE) as long as you cite me and the License (read the License for more details). You can cite me by pointing to the following link:
+- https://github.com/francnascimento/drl-tennis
