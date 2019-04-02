@@ -76,4 +76,7 @@ Below is the plot showing the training epochs and their respective rewards.
 
 ### Future Work
 * Implement Distributed Distributional Deterministic Policy Gradients (D4PG) algorithm and compare its performance with DDPG;
-* Implement PPO and A3C algorithms and compare their performances with DDPG
+  * Apply the changes that promise learning improvement.
+* Implement PPO and A3C algorithms and compare their performances with DDPG;
+* Experiment other artificial neural networks structures in search of a topology that increases the convergence rate;
+* Apply this algorithm to solve some more complex environment, such as found at soccer agents.
